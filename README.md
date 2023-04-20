@@ -1,6 +1,3 @@
-### Olá, eu sou Vicente Costa. 
-
-
 - 😍 Apaixonado por programação. 
 - 👨‍💻 Estudante de programação.
 
