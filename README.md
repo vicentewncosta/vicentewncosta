@@ -1,5 +1,6 @@
 - 😍 Apaixonado por programação. 
 - 👨‍💻 Estudante de programação.
+![image](https://github.com/vicentewncosta/vicentewncosta/assets/89530296/8635e3b1-fb11-4951-925c-5fc5bc1c3436)
 
 <div align="center">
   <a href="https://github.com/vicentewncosta">
